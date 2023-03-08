@@ -1,2 +1,2 @@
-conda activate scrapper
-python %0\kipu.cpython-37.pyc
+call conda activate scrapper
+call python %cd%\kipu.cpython-37.pyc
