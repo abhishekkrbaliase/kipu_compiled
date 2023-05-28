@@ -3,3 +3,4 @@ call conda activate scrapper
 call pip3 install -U selenium==4.7.2
 call pip3 install webdriver-manager==3.8.5
 call conda install pandas==1.3.5 -y
+call pip install kipuUtils-0.0.1-py3-none-any.whl
